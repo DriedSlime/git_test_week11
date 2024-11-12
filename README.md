@@ -2,4 +2,5 @@
 
 ```python
 print("Hello")
+print("Bye")
 ```
